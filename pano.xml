@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.9" hassounds="0" apprev="20995" start="node1">
+  <panorama id="node1">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="7.56909" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 17:45" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23758040" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node1" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="7.56909" longitude="-48.33039324" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-1.33282" description="" distance="3.50032" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node2}" id="Point01" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="13.2028" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 17:47" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23754930" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node2" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="13.2028" longitude="-48.33038829" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="184.301" description="" distance="3.50032" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node1}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="17.8425" description="" distance="4.08535" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node3}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="13.5077" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 17:48" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23751268" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node3" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="13.5077" longitude="-48.33039131" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-161.853" description="" distance="4.08535" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node2}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="7.37461" description="" distance="3.4311" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node4}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-1.73296" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:03" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23748200" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node4" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-1.73296" longitude="-48.33038796" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="172.134" description="" distance="3.4311" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node3}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-3.28725" description="" distance="4.07457" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node5}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-2.85762" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:04" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23744537" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node5" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-2.85762" longitude="-48.33038695" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="175.588" description="" distance="4.07457" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node4}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="72.037" description="" distance="3.26422" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node6}" id="Point02" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-99.4614" description="" distance="3.2584" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node21}" id="Point03" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="76.9483" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:05" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23743772" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node6" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="76.9483" longitude="-48.33041575" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-28.1571" description="" distance="3.26422" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node5}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="150.215" description="" distance="3.66898" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node7}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-3.98768" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:06" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23742822" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node7" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-3.98768" longitude="-48.33044786" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-110.721" description="" distance="3.66898" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node6}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="0.00777191" description="" distance="3.87901" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node8}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="82.3672" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:07" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23739342" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node8" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="82.3672" longitude="-48.33045033" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-93.6373" description="" distance="3.87901" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node7}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="3.04548" description="" distance="3.6546" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node9}" id="Point02" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="95.7911" description="" distance="5.01514" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node11}" id="Point03" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="76.0143" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:08" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23738733" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node9" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="76.0143" longitude="-48.33041751" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="176.693" description="" distance="3.6546" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node8}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="81.7045" description="" distance="3.29985" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node10}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="50.3908" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:08" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23735780" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node10" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="50.3908" longitude="-48.33042050" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-123.919" description="" distance="3.29985" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node9}" id="Point01" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="73.5335" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:09" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23734955" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node11" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="73.5335" longitude="-48.33046097" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-93.0426" description="" distance="5.01514" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node8}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-0.885163" description="" distance="3.97825" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node12}" id="Point02" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="85.4552" description="" distance="3.78214" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node16}" id="Point03" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="70.8599" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:09" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23733994" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node12" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="70.8599" longitude="-48.33042595" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="176.441" description="" distance="3.97825" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node11}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="1.66094" description="" distance="3.90142" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node13}" id="Point02" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="83.0857" description="" distance="3.96848" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node15}" id="Point03" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="54.9087" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:10" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23732748" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node13" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="54.9087" longitude="-48.33039262" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="165.71" description="" distance="3.90142" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node12}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="68.1534" description="" distance="3.56294" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node14}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-107.415" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:10" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23729629" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node14" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-107.415" longitude="-48.33040008" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-274.17" description="" distance="3.56294" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node13}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-2.53906" description="" distance="3.79851" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node15}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-185.929" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:11" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23730506" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node15" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-185.929" longitude="-48.33043363" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-261.053" description="" distance="3.79851" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node14}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-353.703" description="" distance="3.96848" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node12}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-27.8302" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:12" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23731627" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node16" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-27.8302" longitude="-48.33046811" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-195.909" description="" distance="3.78214" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node11}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-28.9008" description="" distance="3.98259" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node17}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="92.6814" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:12" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23728046" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node17" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="92.6814" longitude="-48.33046743" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="271.611" description="" distance="3.98259" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node16}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="1.16729" description="" distance="3.78742" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node18}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="92.1957" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:13" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23728136" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node18" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="92.1957" longitude="-48.33043283" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="180.682" description="" distance="3.78742" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node17}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="9.49511" description="" distance="3.14188" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node19}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="79.5392" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:13" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23727777" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node19" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="79.5392" longitude="-48.33040435" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="176.839" description="" distance="3.14188" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node18}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="45.1386" description="" distance="3.82326" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node20}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-189.965" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:14" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23724940" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node20" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-189.965" longitude="-48.33038461" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-44.3655" description="" distance="3.82326" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node19}" id="Point01" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-277.442" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:15" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23744874" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node21" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-277.442" longitude="-48.33035737" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-370.286" description="" distance="4.48208" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node22}" id="Point02" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-194.046" description="" distance="3.2584" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node5}" id="Point01" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-278.647" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:21" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23745074" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node22" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-278.647" longitude="-48.33031646" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-191.491" description="" distance="4.48208" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node21}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-375.118" description="" distance="3.58131" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node23}" id="Point02" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-276.154" description="" distance="3.57163" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node26}" id="Point03" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-271.655" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:21" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23745437" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node23" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-271.655" longitude="-48.33028394" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-188.126" description="" distance="3.58131" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node22}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-358.095" description="" distance="3.11586" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node24}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:22" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23745263" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node24" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="0" longitude="-48.33025552" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="93.5601" description="" distance="3.11586" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node23}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="4.13349" description="" distance="3.56752" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node25}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:23" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23742063" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node25" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="0" longitude="-48.33025787" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-175.867" description="" distance="3.56752" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node24}" id="Point01" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="94.4648" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:24" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23741865" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node26" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="94.4648" longitude="-48.33031788" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-83.0418" description="" distance="3.57163" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node22}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="9.40626" description="" distance="2.98196" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node27}" id="Point02" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="97.2227" description="" distance="3.82064" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node28}" id="Point03" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:25" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23741634" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node27" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="0" longitude="-48.33029073" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="94.9415" description="" distance="2.98196" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node26}" id="Point01" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-90.3031" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:26" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23738433" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node28" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-90.3031" longitude="-48.33031956" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-267.545" description="" distance="3.82064" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node26}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-3.16583" description="" distance="3.67359" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node29}" id="Point02" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-88.397" description="" distance="4.44136" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node31}" id="Point03" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-91.0372" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:26" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23738268" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node29" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-91.0372" longitude="-48.33035309" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-183.9" description="" distance="3.67359" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node28}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-79.061" description="" distance="3.71243" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node30}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-134.582" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:27" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23735002" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node30" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-134.582" longitude="-48.33036013" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-302.606" description="" distance="3.71243" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node29}" id="Point01" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-265.829" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:27" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23734441" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node31" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-265.829" longitude="-48.33032091" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-443.923" description="" distance="4.44136" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node28}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-349.243" description="" distance="3.50943" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node32}" id="Point02" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-262.236" description="" distance="3.49171" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node35}" id="Point03" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-284.231" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:28" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23734079" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node32" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-284.231" longitude="-48.33028905" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-187.645" description="" distance="3.50943" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node31}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-321.206" description="" distance="3.90417" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node33}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-239.264" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:28" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23731274" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node33" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-239.264" longitude="-48.33026759" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-96.2395" description="" distance="3.90417" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node32}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-362.195" description="" distance="3.10287" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node34}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-152.982" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:30" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23732791" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node34" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-152.982" longitude="-48.33024379" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-95.9134" description="" distance="3.10287" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node33}" id="Point01" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-284.239" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:31" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23731307" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node35" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-284.239" longitude="-48.33032291" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-460.646" description="" distance="3.49171" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node31}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-368.59" description="" distance="3.35484" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node36}" id="Point02" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-277.897" description="" distance="3.65511" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node39}" id="Point03" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:32" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23731010" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node36" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="0" longitude="-48.33029240" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="95.6493" description="" distance="3.35484" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node35}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-10.5411" description="" distance="2.79932" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node37}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:32" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23728535" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node37" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="0" longitude="-48.33028772" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="169.459" description="" distance="2.79932" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node36}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-65.4556" description="" distance="3.2684" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node38}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="12.083" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:33" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23727314" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node38" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="12.083" longitude="-48.33026055" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="126.627" description="" distance="3.2684" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node37}" id="Point01" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-272.04" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:34" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23728040" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node39" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-272.04" longitude="-48.33032660" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-445.698" description="" distance="3.65511" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node35}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-348.299" description="" distance="3.39861" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node40}" id="Point02" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-260.516" description="" distance="3.85613" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node43}" id="Point03" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="70.7354" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:35" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23727314" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node40" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="70.7354" longitude="-48.33029643" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="174.476" description="" distance="3.39861" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node39}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="70.7354" description="" distance="3.85179" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node41}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node41">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-30.4421" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:35" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23723850" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node41" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-30.4421" longitude="-48.33029643" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="149.558" description="" distance="3.85179" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node40}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-104.393" description="" distance="2.78735" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node42}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node42">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-186.706" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:36" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23723157" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node42" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-186.706" longitude="-48.33027195" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-80.6572" description="" distance="2.78735" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node41}" id="Point01" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node43">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-107.685" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:37" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23724642" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node43" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-107.685" longitude="-48.33033364" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-276.161" description="" distance="3.85613" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node39}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-7.67572" description="" distance="3.80017" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node44}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node44">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-9.34117" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:37" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23725236" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node44" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-9.34117" longitude="-48.33036784" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-89.3319" description="" distance="3.80017" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node43}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="2.871" description="" distance="3.64176" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node45}" id="Point02" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="91.844" description="" distance="3.2158" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node47}" id="Point03" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node45">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-28.4615" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:37" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23722035" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node45" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-28.4615" longitude="-48.33037488" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-196.249" description="" distance="3.64176" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node44}" id="Point01" target="$fwd" skinid="ht_node"/>
+      <hotspot pan="-6.5423" description="" distance="3.63773" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node46}" id="Point02" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node46">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-186.416" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:38" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23719000" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node46" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-186.416" longitude="-48.33038729" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-344.497" description="" distance="3.63773" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node45}" id="Point01" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node47">
+    <input leveltilesize="510" height="2000" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingpitch="0" overlap="1">
+      <level predecode="0" width="2000" preload="0" height="2000"/>
+      <level predecode="0" width="1000" preload="0" height="1000"/>
+      <level predecode="1" width="500" preload="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-115.459" fovmode="2">
+      <start tilt="0" pan="0" projection="4" fov="100"/>
+      <flyin tilt="-90" pan="0" projection="9" fov="170"/>
+      <min tilt="-90" pan="0" fovpixel="2"/>
+      <max tilt="90" pan="360" scaletofit="1" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata datetime="03/07/2025 18:38" author="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tags="OFI" description="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" copyright="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" customnodeid="" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" latitude="-10.23725797" info="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" nodeid="node47" source="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" heading="-115.459" longitude="-48.33039667" comment="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h"/>
+    <hotspots width="180" smoothmovement="0" height="20" wordwrap="1">
+      <label border="1" backgroundcolor="0xffffff" textcolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" borderradius="1" background="1" width="180" bordercolor="0x000000" wordwrap="1" enabled="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" borderalpha="1" bordercolor="0x0000ff" handcursor="1"/>
+      <hotspot pan="-194.274" description="" distance="3.2158" title="Medical Vet | Hospital Veterinário em Palmas | Veterinários 24h" tilt="0" url="{node44}" id="Point01" target="$fwd" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" zoomspeed="2" blendcolor="0x000000" blendtime="1" delay="none" zoomout="0" zoomafterinfov="140" zoomfov="40" zoomoutpause="1" enabled="1" softedge="0" type="mesh" zoomin="7"/>
+    <animation clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextvr="1" simulatemass="1" invertcontrol="1" sensitivity="8" zoomcentercursor="1" rubberband="0" speedwheel="1" contextprojections="0" invertwheel="0" lockedmouse="0" lockedwheel="0" lockedkeyboard="0" contextfullscreen="1" lockedkeyboardzoom="0" dblclickfullscreen="0" hideabout="0"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" tags="" description="" copyright="" title="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
